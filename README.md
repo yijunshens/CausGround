@@ -1,3 +1,5 @@
+[简体中文](README.zh-CN.md)
+
 # CausGround-Robocasa Offline Minimal Package
 
 When running `causground.py`, it directly reads the bundled `causground.json` and re-parses the input description using the CausGround mechanism library, generating actions, conditions, effects, producer-backed dependencies, ordering, and uncertainty.
